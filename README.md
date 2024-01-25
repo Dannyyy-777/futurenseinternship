@@ -1,1 +1,1 @@
-# futurenseinternship
+# futurense-internship
